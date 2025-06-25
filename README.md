@@ -170,3 +170,5 @@ Bu sayede endüstriyel IoT uygulamalarında farklı marka ve teknolojiye sahip c
 - [How the Internet Works - Mozilla Developer Docs](https://developer.mozilla.org/)
 - RFC 791, RFC 793, RFC 1122
 - ISO/IEC 7498-1 OSI Reference Model
+- [TCP/IP Model from Novice to Pro: A Comprehensive Beginner’s Guide to Advanced Networking ](https://medium.com/@nay1228/day-2-mastering-the-tcp-ip-model-layers-and-advanced-networking-challenges-80d4fffdc6a9)
+- [The TCP/IP Protocol Suite](https://www.youtube.com/watch?v=wvPe4Zb0tUA))
